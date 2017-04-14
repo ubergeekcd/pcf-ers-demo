@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/mborges-pivotal/pcf-ers-demo1.svg?branch=master)](https://travis-ci.org/mborges-pivotal/pcf-ers-demo1)
 [ ![Download](https://api.bintray.com/packages/mborges-pivotal/generic/pcf-ers-demo1/images/download.svg) ](https://bintray.com/mborges-pivotal/generic/pcf-ers-demo1/_latestVersion)
 
-# PCF Elastic Runtime Service (ERS) Base Demo
-Base application to demonstrate PCF ERS
+# PCF Microservices Base Demo
+Base application to demonstrate PCF ERS and microservices.
 
 ## Credits and contributions
-As you all know, we often transform other work into our own. This is all based from Andrew Ripka's [cf-workshop-spring-boot github repo](https://github.com/pivotal-cf-workshop/cf-workshop-spring-boot) with some basic modifications.
+This is based on work done by Andrew Ripka and [Marcelo Borges](https://github.com/mborges-pivotal) with some basic modifications.
 
 ## Introduction
 This base application is intended to demonstrate some of the basic functionality of PCF ERS:
