@@ -5,7 +5,7 @@
 Base application to demonstrate PCF ERS and microservices.
 
 ## Credits and contributions
-This is based on work done by Andrew Ripka and [Marcelo Borges](https://github.com/mborges-pivotal) with some basic modifications.
+This is based on work done by [Andrew Ripka](https://github.com/aripka-pivotal) and [Marcelo Borges](https://github.com/mborges-pivotal) with some basic modifications.
 
 ## Introduction
 This base application is intended to demonstrate some of the basic functionality of PCF ERS:
